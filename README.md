@@ -1,1 +1,3 @@
-# stanly
+# maven-project
+
+Simple Maven Project
